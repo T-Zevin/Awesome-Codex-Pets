@@ -1,0 +1,16 @@
+{
+  "name": "Example Codex Pet",
+  "version": "1.0.0",
+  "author": "your-name",
+  "description": "A custom Codex desktop pet.",
+  "spritesheet": "spritesheet.webp",
+  "states": {
+    "idle": {},
+    "running-left": {},
+    "running-right": {},
+    "waving": {},
+    "waiting": {},
+    "failed": {}
+  }
+}
+
