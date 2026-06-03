@@ -16,7 +16,7 @@
   <a href="docs/install.md">安装教程</a> ·
   <a href="docs/config.md">配置说明</a> ·
   <a href="docs/make-your-own-pet.md">制作教程</a> ·
-  <a href="resources/galleries.md">资源站点</a>
+  <a href="#-资源全集">资源全集</a>
 </p>
 
 <p>
@@ -57,27 +57,43 @@ pet-name/
 
 详细教程见：[docs/install.md](docs/install.md)
 
-## 🌐 资源导航
+## 📚 页面目录
 
-### Gallery / 下载站
+- [这个仓库是什么](#-这个仓库是什么)
+- [快速开始](#-快速开始)
+- [资源全集](#-资源全集)
+- [推荐目录](#-推荐目录)
+- [Prompt 灵感](#-prompt-灵感)
+- [投稿建议](#-投稿建议)
+
+## 🌐 资源全集
+
+> 这里尽量把已收集到的网址都放在首页，不怕长，方便直接浏览和检索。
+
+### 🧭 Gallery / 下载站 / 目录站
 
 | 名称 | 用途 | 链接 |
 |---|---|---|
 | CodexPets.net | 成品 Pet 下载、动画预览、作者信息 | https://codexpets.net/ |
 | CodexPets.org | Pet 浏览与 Hatch Pet Prompt 参考 | https://codexpets.org/ |
+| CodexPets.org Install | 安装教程 | https://codexpets.org/install |
 | Codex Pet Gallery | 大型社区 Gallery | https://codex-pet.org/ |
 | Codex Pet 中文页 | 中文 Gallery | https://codex-pet.org/zh/ |
-| CodexPetHub | 安全安装和 CLI 文档 | https://codexpethub.com/ |
-| codex-pet.com | Gallery 与 CLI 资料 | https://codex-pet.com/ |
-| CodingPets.com | 宠物预览与下载站 | https://codingpets.com/ |
-| CodingPets.dev | 安装说明和宠物包结构说明 | https://www.codingpets.dev/codex-pets/install |
-| Petdex | 社区图鉴平台 | https://petdex.crafter.run/about |
+| Codex Pet Hatch Guide | 制作教程 | https://codex-pet.org/hatch-pet/ |
+| Codex Pet Spritesheet Guide | 素材规范 | https://codex-pet.org/spritesheet-webp/ |
+| CodexPetHub | 安全安装站 | https://codexpethub.com/ |
+| CodexPetHub Docs | CLI 安装教程 | https://codexpethub.com/docs/install-with-codex |
+| codex-pet.com | Gallery / CLI | https://codex-pet.com/ |
+| codex-pet.com Docs | CLI 文档 | https://codex-pet.com/docs |
+| CodingPets.com | 宠物下载站 | https://codingpets.com/ |
+| CodingPets.dev Install | 安装教程 | https://www.codingpets.dev/codex-pets/install |
+| codexpets.app Submit | 投稿入口 | https://www.codexpets.app/submit |
+| Petdex | 社区图鉴 | https://petdex.crafter.run/about |
 | PetsCodex | 单宠物展示页面示例 | https://www.petscodex.com/pets/keanu-reeves |
 | CodexPet Directory | Codex Pet 目录站 | https://codexpet.directory/about |
+| PitchWall Codex Pet Gallery | 产品收录页 | https://pitchwall.co/product/codex-pet-gallery |
 
-更多站点见：[resources/galleries.md](resources/galleries.md)
-
-### GitHub 项目
+### 🧰 GitHub 合集 / 平台 / 工具
 
 | 名称 | 类型 | 链接 |
 |---|---|---|
@@ -86,11 +102,61 @@ pet-name/
 | awesome-codex-pet | 大型合集与 live gallery | https://github.com/legeling/awesome-codex-pet |
 | Petdex | 社区图鉴项目 | https://github.com/crafter-station/petdex |
 | OpenPets | macOS / MCP / CLI 方向 | https://github.com/alterhq/openpets |
+| awesome-codex-pets-projects | 项目导航 | https://github.com/alterhq/awesome-codex-pets-projects |
+| codex-pets-react | React 渲染组件 | https://github.com/backnotprop/codex-pets-react |
+| codex-pets | 系统级桌宠 | https://github.com/codexpets/codex-pets |
+| Vibebud | AI 虚拟宠物 | https://github.com/Shellishack/vibebud |
+| WatchPet | Apple Watch companion | https://github.com/lkuczborski/WatchPet |
+| agent-pet | Web app 小宠物组件 | https://github.com/gibbon/agent-pet |
+| agent-familiars | Agent 工作桌宠 | https://github.com/jalcantarab/agent-familiars |
+| goodboy | 宠物生成/QA | https://github.com/adamallcock/goodboy |
+| TamaCodex | Token 消耗养成宠 | https://github.com/Alichua/TamaCodex |
+| TokenPet | Token 追踪桌宠 | https://github.com/sugar301/TokenPet |
+| petty | Codex 资源播放器 | https://github.com/LeslieLeung/petty |
+| petdex-dock | 桌面边缘宠物 | https://github.com/felipetodev/petdex-dock |
+| multi-codex-pets | 多宠物/内置资源读取 | https://github.com/anthnykr/multi-codex-pets |
+
+### 📦 具体宠物包
+
+| 名称 | 类型 | 链接 |
+|---|---|---|
+| mimi-codex-pet | 猫宠物 | https://github.com/Spacebody/mimi-codex-pet |
+| Tian-Hua-Hua-Codex-Pet | 角色宠物 | https://github.com/D1a0y1bb/Tian-Hua-Hua-Codex-Pet |
+| Diaoyi-Baobao-Codex-Pet | 角色宠物 | https://github.com/D1a0y1bb/Diaoyi-Baobao-Codex-Pet |
+| muskbit-codex-pet | 像素宠物 | https://github.com/2578568823/muskbit-codex-pet |
+| Project-Xiaodouni-Codex-Pet | 桌宠包 | https://github.com/multicosphy/Project-Xiaodouni-Codex-Pet |
+| emma-millstein-codex-pet | Fan-made | https://github.com/SeptenTrace/emma-millstein-codex-pet |
+| keep-4o-codex-pet | Keep 4o 风格 | https://github.com/sebeoffice/keep-4o-codex-pet |
+| kbo-mascot-codex-pet | KBO 吉祥物 | https://github.com/younghyundev/kbo-mascot-codex-pet |
+| esheep64-codex-pet | 怀旧 eSheep | https://github.com/etechlead/esheep64-codex-pet |
+| yoyo-restored-pet | 悠悠宠物 | https://github.com/fsrmll/yoyo-restored-pet |
+| malou-codex-pet | Malou 宠物 | https://github.com/mySebbe/malou-codex-pet |
+| mai-codex-pet | 动漫风 | https://github.com/galanime/mai-codex-pet |
+| D-Cats-Codex-Pets | 猫宠物包 | https://github.com/GrShin5/D-Cats-Codex-Pets |
 | Codex PokePets | Pokémon 风格宠物合集 | https://github.com/dnnyngyen/codex-pokepets |
 | Codex Anime Pets | 动漫风桌宠合集 | https://github.com/chenxin-dlut/codex-anime-pets |
-| codex-pets-react | React 渲染组件 | https://github.com/backnotprop/codex-pets-react |
 
-更多项目见：[resources/github-projects.md](resources/github-projects.md)
+### 🧪 工具与 CLI
+
+| 名称 | 用途 | 链接 |
+|---|---|---|
+| CodexPetHub Docs | CLI 安装教程 | https://codexpethub.com/docs/install-with-codex |
+| codex-pet.com Docs | CLI 文档 | https://codex-pet.com/docs |
+| OpenPets | macOS / MCP / CLI 方向 | https://github.com/alterhq/openpets |
+| Petdex | Gallery / CLI / Desktop app | https://github.com/crafter-station/petdex |
+| codex-pets-react | React 渲染组件 | https://github.com/backnotprop/codex-pets-react |
+| petty | Codex 资源播放器 | https://github.com/LeslieLeung/petty |
+| petdex-dock | 桌面边缘宠物 | https://github.com/felipetodev/petdex-dock |
+
+### 🧯 排错 / 官方相关
+
+| 名称 | 用途 | 链接 |
+|---|---|---|
+| hatch-pet skill | 官方制作流程参考 | https://github.com/openai/skills/blob/main/skills/.curated/hatch-pet/SKILL.md |
+| WSL custom pets issue | WSL 路径问题 | https://github.com/openai/codex/issues/20730 |
+| Half-cropped issue | 桌宠裁切问题 | https://github.com/openai/codex/issues/20828 |
+| Interaction hooks issue | 交互 API 需求 | https://github.com/openai/codex/issues/21657 |
+| Pet overlay issue | macOS overlay 问题 | https://github.com/openai/codex/issues/20706 |
 
 ## 🧩 推荐目录
 
@@ -154,4 +220,3 @@ Awesome-Codex-Pets/
 ## ⚠️ 说明
 
 本仓库主要做资源导航和中文整理。请尊重原作者版权和授权协议，不要未经许可重新分发他人素材。
-
