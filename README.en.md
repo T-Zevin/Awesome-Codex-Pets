@@ -56,3 +56,6 @@ See [docs/install.md](docs/install.md) for details.
 
 This repository is a directory and documentation project. Please respect the original authors and licenses of all linked resources.
 
+## License
+
+Original content created by this project is licensed under the [MIT License](LICENSE). Third-party resources collected or linked here remain subject to their respective licenses and copyright notices.
