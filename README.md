@@ -135,6 +135,7 @@ pet-name/
 | D-Cats-Codex-Pets | 猫宠物包 | https://github.com/GrShin5/D-Cats-Codex-Pets |
 | Codex PokePets | Pokémon 风格宠物合集 | https://github.com/dnnyngyen/codex-pokepets |
 | Codex Anime Pets | 动漫风桌宠合集 | https://github.com/chenxin-dlut/codex-anime-pets |
+| Chhota-Bheem-pet | Fan-made / 印度动画角色（含 v1 与 v2 双版本） | https://github.com/makriman/Chhota-Bheem-pet |
 
 ### 🧪 工具与 CLI
 
