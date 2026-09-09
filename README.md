@@ -92,6 +92,7 @@ pet-name/
 | PetsCodex | 单宠物展示页面示例 | https://www.petscodex.com/pets/keanu-reeves |
 | CodexPet Directory | Codex Pet 目录站 | https://codexpet.directory/about |
 | PitchWall Codex Pet Gallery | 产品收录页 | https://pitchwall.co/product/codex-pet-gallery |
+| BestCodexPets | 策展 Gallery：动画预览、zip 安装到 ~/.codex/pets | https://bestcodexpets.com |
 
 ### 🧰 GitHub 合集 / 平台 / 工具
 
