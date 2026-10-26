@@ -22,4 +22,5 @@
 | petty | Codex 资源播放器 | https://github.com/LeslieLeung/petty |
 | petdex-dock | 桌面边缘宠物 | https://github.com/felipetodev/petdex-dock |
 | multi-codex-pets | 多宠物/内置资源读取 | https://github.com/anthnykr/multi-codex-pets |
+| PlayPets | 多宠物互相聊天的桌面小院 | https://github.com/gaerae/playpets |
 
